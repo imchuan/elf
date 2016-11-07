@@ -2,10 +2,10 @@
  * Copyright (c) 2016 Elf Framework All rights reserved.
  */
 
-package com.elf.core.impl;
+package com.elf.impl;
 
-import com.elf.core.Page;
-import com.elf.core.Pageable;
+import com.elf.Pageable;
+import com.elf.Page;
 
 import java.io.Serializable;
 import java.util.List;

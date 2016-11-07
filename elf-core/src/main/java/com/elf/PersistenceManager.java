@@ -2,7 +2,7 @@
  * Copyright (c) 2016 Elf Framework All rights reserved.
  */
 
-package com.elf.core;
+package com.elf;
 
 
 import java.io.Serializable;

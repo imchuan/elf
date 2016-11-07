@@ -2,35 +2,36 @@
  * Copyright (c) 2016 Elf Framework All rights reserved.
  */
 
-package com.elf.core;
+package com.elf;
 
 import java.io.Serializable;
+import java.util.Date;
 
 /**
- * DTO
+ * 实体
  *
  * @author Leon
  */
-public interface Dto {
+public interface Entity {
 
     /**
-     * 获取主键
+     * 获取id(主键)
      *
-     * @return 主键
+     * @return id
      */
     Serializable getId();
 
     /**
      * 获取创建时间
      *
-     * @return 时间字符串
+     * @return 创建时间
      */
-    String getCreationTime();
+    Date getCreationTime();
 
     /**
      * 获取修改时间
      *
-     * @return 时间字符串
+     * @return 修改时间
      */
-    String getModifiedTime();
+    Date getModifiedTime();
 }

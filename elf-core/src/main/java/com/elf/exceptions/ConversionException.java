@@ -2,7 +2,7 @@
  * Copyright (c) 2016 Elf Framework All rights reserved.
  */
 
-package com.elf.core.exceptions;
+package com.elf.exceptions;
 
 /**
  * 对象转换异常

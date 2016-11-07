@@ -2,9 +2,9 @@
  * Copyright (c) 2016 Elf Framework All rights reserved.
  */
 
-package com.elf.core.impl;
+package com.elf.impl;
 
-import com.elf.core.Pageable;
+import com.elf.Pageable;
 
 /**
  * 分页请求数据封装

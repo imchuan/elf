@@ -2,9 +2,9 @@
  * Copyright (c) 2016 Elf Framework All rights reserved.
  */
 
-package com.elf.core.impl;
+package com.elf.impl;
 
-import com.elf.core.Entity;
+import com.elf.Entity;
 
 import javax.persistence.*;
 import java.util.Date;
